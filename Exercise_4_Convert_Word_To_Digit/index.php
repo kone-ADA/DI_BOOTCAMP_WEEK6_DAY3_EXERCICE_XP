@@ -12,7 +12,7 @@
     <form action="digit.php" method="post">
         <div class="input-group mb-3">
             <span>Entrez des nombres en lettre separes par des virgules: </span>
-            <input type="text" class="form-control" name="valeur" />
+            <input type="text   " class="form-control" name="valeur" />
         </div>
         <input type="submit" />
     </form>
